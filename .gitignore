@@ -1,0 +1,7 @@
+# .gitignore for infrastructure and Docker
+*.env
+*.log
+*.DS_Store
+.vscode/
+*.sublime-workspace
+*.sublime-project
